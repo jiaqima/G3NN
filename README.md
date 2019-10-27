@@ -1,4 +1,4 @@
-# G3GNN
+# G3NN
 
 This repo provides a pytorch implementation for the 4 instantiations of the flexible generative framework as described in the following paper:
 
