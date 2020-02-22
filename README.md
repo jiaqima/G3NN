@@ -16,10 +16,11 @@ Example: `python main.py --model lsm_gcn --dataset cora`
 
 ## Cite
 ```
-@article{ma2019flexible,
+@inproceedings{ma2019flexible,
   title={A Flexible Generative Framework for Graph-based Semi-supervised Learning},
   author={Ma, Jiaqi and Tang, Weijing and Zhu, Ji and Mei, Qiaozhu},
-  journal={arXiv preprint arXiv:1905.10769},
+  booktitle={Advances in Neural Information Processing Systems},
+  pages={3276--3285},
   year={2019}
 }
 ```
