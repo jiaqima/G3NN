@@ -4,7 +4,7 @@ This repo provides a pytorch implementation for the 4 instantiations of the flex
 
 [A Flexible Generative Framework for Graph-based Semi-supervised Learning](https://arxiv.org/abs/1905.10769)
 
-Jiaqi Ma\*, Weijing Tang\*, Ji Zhu, Qiaozhu Mei. NeurIPS 2019.
+[Jiaqi Ma](https://www.jiaqima.com/)\*, [Weijing Tang](https://sites.google.com/umich.edu/weijingtang/home)\*, [Ji Zhu](http://dept.stat.lsa.umich.edu/~jizhu/), and [Qiaozhu Mei](http://www-personal.umich.edu/~qmei/). NeurIPS 2019.
 
 (\*: equal contribution)
 
